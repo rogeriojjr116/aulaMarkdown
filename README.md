@@ -1,4 +1,4 @@
-# Aula prática - Markdown
+![image](https://github.com/rogeriojjr116/aulaMarkdown/assets/164503775/5e4e987f-6925-41c6-8ffb-380ca9e3d890)![image](https://github.com/rogeriojjr116/aulaMarkdown/assets/164503775/23751294-acc2-425e-969f-5421ef6cee69)# Aula prática - Markdown
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
@@ -16,3 +16,16 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+# ENGENHARIA DE REQUISITOS
+## conceito
+### Engenharia de Requisitos. É uma disciplina com finalidade de gerenciar os requisitos de sistema/software. É uma abordagem sistemática para elicitar, organizar e documentar os requisitos do sistema, para garantir completeza, consistência e relevância dos requisitos.
+## tipos de requisitos
+### . Cadastrar cliente
+### . Resevar quarto
+### . Registrar checkin
+### . Registrar checkout 
+
+
+
+
